@@ -1,0 +1,13 @@
+#main-container {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+body {
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+
+#content-container {
+    background-color: lightskyblue;
+}
